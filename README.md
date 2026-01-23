@@ -23,7 +23,8 @@ These values are useful for verification, automation, and for referencing resour
 Important:
 S3 bucket names must be globally unique. Update the bucket name before applying.
 
-<img width="1487" height="707" alt="image" src="https://github.com/user-attachments/assets/e726e6da-68ac-400d-a949-76d6c9a234a3" />
+<img width="1115" height="696" alt="image" src="https://github.com/user-attachments/assets/b22870a3-8f2a-4c2c-a31d-126002c8fd2c" />
+
 
 ## How Terraform Interprets This
 
